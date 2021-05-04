@@ -1,10 +1,10 @@
-# RegressionProject
+# Regression Project
 
 This project was done for ISyE 6414: Regression Analysis.
 
 This project used the European Social Survey to create an Ordinal Logistic Regression model to find explanatory socio-economic variables for happiness.
 
-Abstract 
+# Abstract 
 
 Subjective happiness is important for human beings. Our project focus on
 explore how political attitude and behavior influence subjective happiness based on the
